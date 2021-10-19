@@ -1,0 +1,63 @@
+
+@import 'bootstrap/dist/css/bootstrap';
+
+
+.navbar-brand {
+    background-color: 3rem;
+}
+
+.navbar {
+  
+    display: flex;
+  
+    align-items: center;
+ 
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
+
+.navbar-expand-md {
+    flex-wrap: nowrap;
+    justify-content: flex-start;
+}
+
+element.style {
+}
+.bg-dark {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb),var(--bs-bg-opacity))!important;
+}
+
+.search-area {
+    padding-top: 50px;
+}
+
+.no-right-padding {
+    padding-right: 0 !important;
+}
+
+.no-left-padding {
+    padding-left: 0 !important;
+}
+
+.results-block {
+    display: inline-block;
+    margin-bottom: 1rem;
+}
+
+.logout-button {
+    margin-right: 5px;
+}
+
+.user-name {
+    margin-top: 3.5%;
+    padding-right: 5px;
+}
+
+.jumbotron {
+  background-image: asset-url('img.jpg');
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425px;
+}
