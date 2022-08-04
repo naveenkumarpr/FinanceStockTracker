@@ -1,24 +1,7 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Stock tracking App 
+*In this app new users can create there account .
+*Authentication of users is implemented.
+*The main theme of this app is to users can track there stocks, they can add the stocks to ther portfolio(fetching stocks are implemented using third party api)
+*They can add and remove there stocks in there potfolio.
+*This app is inclusive of both backend and frontend.
